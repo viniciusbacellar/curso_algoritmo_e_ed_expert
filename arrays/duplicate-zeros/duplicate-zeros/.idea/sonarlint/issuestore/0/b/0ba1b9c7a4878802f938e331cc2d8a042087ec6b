@@ -1,0 +1,5 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Óºö¬2
+y	java:S127$"XRefactor the code in order to not assign to this loop counter from within the loop body.(×ß’ºûÿÿÿÿ8•¦ÿö¬2
+y	java:S127%"XRefactor the code in order to not assign to this loop counter from within the loop body.(ú¼É™ûÿÿÿÿ8•¦ÿö¬2
+L	java:S106"+Replace this use of System.out by a logger.(Å´§¡ıÿÿÿÿ8 ¬¬ö¬2
