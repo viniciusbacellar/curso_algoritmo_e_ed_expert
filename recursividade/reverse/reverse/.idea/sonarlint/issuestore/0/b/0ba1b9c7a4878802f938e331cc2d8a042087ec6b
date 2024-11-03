@@ -1,0 +1,11 @@
+
+L	java:S106
+"+Replace this use of System.out by a logger.(øÁ™óøÿÿÿÿ8€Íà•¯2
+E
+java:S1659&"#Declare "right" on a separate line.(‘Ù´îøÿÿÿÿ8ƒÍà•¯2
+H
+java:S1481("&Remove this unused "i" local variable.(ˆñ—ıÿÿÿÿ8ƒÍà•¯2
+J
+java:S1144"-Remove this unused private "reverse1" method.(±àõ‡8şïá•¯2
+O
+java:S1144#"-Remove this unused private "reverse2" method.(É¾ãœûÿÿÿÿ8şïá•¯2
